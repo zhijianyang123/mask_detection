@@ -1,1 +1,5 @@
 # mask_detection
+这是一个yolov11模型进行口罩识别检测的完整代码
+piture为识别单张图片
+video调用摄像头进行识别
+精确率都达到以上
