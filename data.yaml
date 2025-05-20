@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['improper_mask', 'no_mask', 'proper_mask']
+
+roboflow:
+  workspace: group-tbd
+  project: real-time-face-mask-detection-and-validation-system-dataset
+  version: 4
+  license: MIT
+  url: https://universe.roboflow.com/group-tbd/real-time-face-mask-detection-and-validation-system-dataset/dataset/4
